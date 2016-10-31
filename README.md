@@ -1,15 +1,13 @@
 # React Youtube
 
-React App built following a course about React on Udemy [Redux](https://www.udemy.com/react-redux/)?
+Built following a [React-Redux course on Udemy](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then run the app:
+####How to build this project#####
+Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-  > npm install
-  > npm start
+	> git clone https://github.com/NicolePell/react_youtube.git
+	> cd react_youtube
+	> npm install
+	> npm start
 ```
