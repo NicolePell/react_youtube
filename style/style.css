@@ -1,5 +1,5 @@
 .search-bar {
-  margin: 20px;
+  margin: 2rem;
   text-align: center;
 }
 
@@ -8,7 +8,14 @@
 }
 
 .video-item img {
-  max-width: 64px;
+  max-width: 6rem;
+}
+
+.video-detail .details {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 0.5rem solid #ddd;
+  border-radius: 0.5rem;
 }
 
 .list-group-item {
